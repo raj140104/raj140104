@@ -2,7 +2,7 @@
 
 🚀 **Under Graduate | Tech Enthusiast - Web Dev | AI & Cloud Practitioner | Graphic Designer**
 
-🔹 Passionate about **Web Development**, **AI/ML**, and **Cloud Computing**.
+🔹 Passionate about **Web Development**, **AI/ML**, **Cloud Computing**, and **Graphic Designing**.
 🔹 Love solving complex problems, building scalable applications, and participating in **Hackathons**.
 🔹 Active **Open-Source Contributor**, **Tech Explorer**, and **Team Leader**.
 
@@ -12,7 +12,7 @@
 🎓 **Final Year B.E. Computer Science Engineering** | Chandigarh University, Punjab  
 🎓 **Diploma in Engineering (Automobile)** | New Government Polytechnic, Patna  
 🏆 **Hackathon Winner & Researcher** | IEEE Published Author  
-💻 **Passionate Developer** | MERN Stack, AWS, AI/ML & Cybersecurity  
+💻 **Passionate Developer** | MERN Stack, AWS, AI/ML 
 
 ---
 

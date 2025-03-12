@@ -68,7 +68,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/riteshraj140104)  
 💻 [GitHub](https://github.com/raj140104)  
 📧 **Email:** riteshraj140104@gmail.com  
-🚀 **LeetCode | GeeksforGeeks | Coding Ninjas | HackerRank**  
+🚀 **[LinkedIn]https://leetcode.com/u/riteshraj140104/ | GeeksforGeeks | Coding Ninjas | HackerRank**  
 
 📌 Always open for **collaborations, tech discussions, and project ideas**!  
 💡 Let's build something **awesome** together! 🚀🔥

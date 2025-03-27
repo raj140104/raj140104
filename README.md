@@ -30,19 +30,19 @@
 ## 📌 Featured Projects
 
 
-🌍 **[StudyPilot - Scalable E-Learning Platform](https://github.com/raj140104)**  
+🌍 **[StudyPilot - Scalable E-Learning Platform](https://github.com/raj140104?tab=repositories)**  
 🔹 Built a MERN stack platform with AWS cloud hosting, enabling seamless student-instructor interaction.
 
-🎓 **[College Sarthi - Student Assistance Platform](https://github.com/raj140104)**  
+🎓 **[College Sarthi - Student Assistance Platform](https://github.com/raj140104?tab=repositories)**  
 🔹 Developed an educational portal to assist students with **counseling, internships, and hostels**.
 
-💳 **[Amazon Clone](https://github.com/raj140104)**  
+💳 **[Amazon Clone](https://github.com/raj140104?tab=repositories)**  
 🔹 Frontend replica of Amazon, built using **HTML & CSS** for practice and UI enhancement.
 
-🎧 **[Spotify Clone](https://github.com/raj140104)**  
+🎧 **[Spotify Clone](https://github.com/raj140104?tab=repositories)**  
 🔹 A **music player** UI designed using HTML and CSS for frontend development practice.
 
-💻 **[Employee Data Fetch Using Java](https://github.com/raj140104)**  
+💻 **[Employee Data Fetch Using Java](https://github.com/raj140104?tab=repositories)**  
 🔹 Java application utilizing **core Java concepts** to retrieve and display employee details efficiently.
 
 🔧 **More Projects:** [GitHub Repositories](https://github.com/raj140104?tab=repositories)

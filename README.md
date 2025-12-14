@@ -9,7 +9,7 @@
 ---
 
 ## 📌 About Me
-🎓 **Final Year B.E. Computer Science Engineering** | Chandigarh University, Punjab  
+🎓 **Graduate in B.E. Computer Science Engineering** | Chandigarh University, Punjab  
 🎓 **Diploma in Engineering (Automobile)** | New Government Polytechnic, Patna  
 🏆 **Hackathon Winner & Researcher** | IEEE Published Author  
 💻 **Passionate Developer** | MERN Stack, AWS, AI/ML  

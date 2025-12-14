@@ -1,6 +1,6 @@
 ### Hi there, I'm Ritesh Raj! 👋
 
-🚀 **Under Graduate | Tech Enthusiast - Web Dev | AI & Cloud Practitioner | Graphic Designer**
+🚀 **Graduate | Tech Enthusiast - Web Dev | AI & Cloud Practitioner | Graphic Designer**
 
 🔹 Passionate about **Web Development**, **AI/ML**, **Cloud Computing**, and **Graphic Designing**.  
 🔹 Love solving complex problems, building scalable applications, and participating in **Hackathons**.  

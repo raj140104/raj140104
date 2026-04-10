@@ -1,31 +1,50 @@
-### Hi there, I'm Ritesh Raj! 👋
+Hi there, I'm Ritesh Raj 👋
 
-🚀 **Graduate | Tech Enthusiast - Web Dev | AI & Cloud Practitioner | Graphic Designer**
+🚀 Software Engineer | Java Full Stack Developer | Spring Boot | Angular | Cloud Enthusiast | Graphic Designer
 
-🔹 Passionate about **Web Development**, **AI/ML**, **Cloud Computing**, and **Graphic Designing**.  
-🔹 Love solving complex problems, building scalable applications, and participating in **Hackathons**.  
-🔹 Active **Open-Source Contributor**, **Tech Explorer**, and **Team Leader**.  
+💡 About Me
+🎓 Graduate in B.E. Computer Science Engineering — Chandigarh University, Punjab
+🎓 Diploma in Engineering (Automobile) — New Government Polytechnic, Patna
+💼 Experience in enterprise application development
+🏆 Hackathon participant, researcher, and IEEE published author
+🚀 Passionate about scalable backend systems, cloud solutions, and product development
+🎨 Also working in branding, design, and digital creativity
+🛠 Tech Stack
+💻 Languages
 
----
+Java Python C++ SQL JavaScript HTML CSS
 
-## 📌 About Me
-🎓 **Graduate in B.E. Computer Science Engineering** | Chandigarh University, Punjab  
-🎓 **Diploma in Engineering (Automobile)** | New Government Polytechnic, Patna  
-🏆 **Hackathon Winner & Researcher** | IEEE Published Author  
-💻 **Passionate Developer** | MERN Stack, AWS, AI/ML  
+⚙️ Backend
 
----
+Spring Boot Spring Data JPA Hibernate REST APIs
 
-## 🛠 Tech Stack & Tools
+🎨 Frontend
 
-- **Languages**: Java, Python, C++, SQL, JavaScript, HTML, CSS
-- **Web & App Development**: React.js, Node.js, Express.js, Flutter
-- **Cloud & DevOps**: AWS (EC2, Lambda, S3, RDS, VPC, CloudFront), Docker
-- **AI/ML & Deep Learning**: TensorFlow, PyTorch, NLP
-- **Databases**: MySQL, MongoDB
-- **Developer Tools**: Git, GitHub, IntelliJ, VS Code, Google Colab
+Angular React.js Bootstrap Tailwind CSS
 
----
+🗄 Database
+
+MySQL MongoDB
+
+☁️ Cloud & DevOps
+
+AWS Docker
+
+🤖 AI / ML
+
+TensorFlow PyTorch NLP
+
+🧰 Tools
+
+Git GitHub IntelliJ IDEA VS Code Postman
+
+💼 Professional Experience
+Enterprise Engineering Platform Development
+Designed and developed a Spring Boot-based internal enterprise platform for engineering project lifecycle management
+Implemented modules for Role, Department, Designation, Project, and Project Role Assignment using JPA and MySQL
+Built task assignment workflow with deadline validation and authority-based execution
+Structured scalable backend architecture using DTOs, repositories, services, and controllers
+Integrated Angular frontend for enterprise module interaction
 
 ## 📌 Featured Projects
 

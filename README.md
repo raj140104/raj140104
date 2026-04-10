@@ -1,50 +1,51 @@
 Hi there, I'm Ritesh Raj 👋
 
-🚀 Software Engineer | Java Full Stack Developer | Spring Boot | Angular | Cloud Enthusiast | Graphic Designer
+🚀 Software Developer | Java Full Stack Engineer | Cloud Practitioner | Graphic Designer
+
+I am a Computer Science graduate passionate about building scalable software systems, solving real-world problems, and continuously exploring modern technologies.
+
+Currently focused on Java Backend Development, Spring Boot, Angular, Cloud Technologies, and Enterprise Application Development, while also carrying strong interest in AI-driven systems, Web Platforms, and Product Design.
 
 💡 About Me
 🎓 Graduate in B.E. Computer Science Engineering — Chandigarh University, Punjab
 🎓 Diploma in Engineering (Automobile) — New Government Polytechnic, Patna
-💼 Experience in enterprise application development
-🏆 Hackathon participant, researcher, and IEEE published author
-🚀 Passionate about scalable backend systems, cloud solutions, and product development
-🎨 Also working in branding, design, and digital creativity
+💼 Hands-on industry experience in enterprise application development
+🏆 Hackathon participant, problem solver, and research contributor
+📄 Co-author of IEEE research publication
+🎯 Strong interest in scalable backend systems, architecture, and modern development practices
+🔥 Current Focus
+Building enterprise applications using Spring Boot + Angular
+Strengthening backend architecture and API design
+Exploring cloud-native deployment and scalable systems
+Improving DSA, system design, and production-level coding practices
 🛠 Tech Stack
-💻 Languages
+Languages
 
-Java Python C++ SQL JavaScript HTML CSS
+Java • Python • C++ • SQL • JavaScript • HTML • CSS
 
-⚙️ Backend
+Backend Development
 
-Spring Boot Spring Data JPA Hibernate REST APIs
+Spring Boot • Spring Data JPA • REST APIs • Hibernate • Node.js • Express.js
 
-🎨 Frontend
+Frontend Development
 
-Angular React.js Bootstrap Tailwind CSS
+Angular • React.js • HTML • CSS • JavaScript
 
-🗄 Database
+Databases
 
-MySQL MongoDB
+MySQL • MongoDB
 
-☁️ Cloud & DevOps
+Cloud & DevOps
 
-AWS Docker
+AWS (EC2, Lambda, S3, RDS, VPC, CloudFront) • Docker
 
-🤖 AI / ML
+AI / ML
 
-TensorFlow PyTorch NLP
+TensorFlow • PyTorch • NLP Fundamentals
 
-🧰 Tools
+Developer Tools
 
-Git GitHub IntelliJ IDEA VS Code Postman
-
-💼 Professional Experience
-Enterprise Engineering Platform Development
-Designed and developed a Spring Boot-based internal enterprise platform for engineering project lifecycle management
-Implemented modules for Role, Department, Designation, Project, and Project Role Assignment using JPA and MySQL
-Built task assignment workflow with deadline validation and authority-based execution
-Structured scalable backend architecture using DTOs, repositories, services, and controllers
-Integrated Angular frontend for enterprise module interaction
+Git • GitHub • IntelliJ IDEA • VS Code • Postman • Google Colab
 
 ## 📌 Featured Projects
 
